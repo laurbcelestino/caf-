@@ -1,0 +1,7 @@
+C:\Users\laura.rlcelestino\Documents\grãoesabor_cafeteria\grãoesabor_cafeteria\bin\Debug\grãoesabor_cafeteria.exe.config
+C:\Users\laura.rlcelestino\Documents\grãoesabor_cafeteria\grãoesabor_cafeteria\bin\Debug\grãoesabor_cafeteria.exe
+C:\Users\laura.rlcelestino\Documents\grãoesabor_cafeteria\grãoesabor_cafeteria\bin\Debug\grãoesabor_cafeteria.pdb
+C:\Users\laura.rlcelestino\Documents\grãoesabor_cafeteria\grãoesabor_cafeteria\obj\Debug\grãoesabor_cafeteria.csproj.AssemblyReference.cache
+C:\Users\laura.rlcelestino\Documents\grãoesabor_cafeteria\grãoesabor_cafeteria\obj\Debug\grãoesabor_cafeteria.csproj.CoreCompileInputs.cache
+C:\Users\laura.rlcelestino\Documents\grãoesabor_cafeteria\grãoesabor_cafeteria\obj\Debug\grãoesabor_cafeteria.exe
+C:\Users\laura.rlcelestino\Documents\grãoesabor_cafeteria\grãoesabor_cafeteria\obj\Debug\grãoesabor_cafeteria.pdb
